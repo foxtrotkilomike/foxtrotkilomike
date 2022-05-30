@@ -19,12 +19,19 @@ Learning **JavaScript**, **ReactJS** and taking part in JS FE course of [Rolling
 - Webpack
 
 ## :bar_chart: Stats
-![Phil Khromov's GitHub stats](https://github-readme-stats.vercel.app/api?username=foxtrotkilomike&show_icons=true&theme=onedark)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=foxtrotkilomike&show_icons=true&hide_rank=true&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxtrotkilomike&layout=compact&theme=onedark" />
+</a>
 
 ## :trophy: Other achievements
 <a href="https://www.codewars.com/users/foxtrotkilomike">
   <img src="https://www.codewars.com/users/foxtrotkilomike/badges/small">
 </a>
+
 <!--
 **foxtrotkilomike/foxtrotkilomike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
