@@ -3,7 +3,7 @@
 ## :bow: Who am I
 I'm Phil - a frontend developer, a graduate of [BMSTU](https://www.bmstu.ru/) informatics and control systems faculty. Keen on learning new technologies in web-design, which improve user experience and benefit the business!
 
-Check out my **[projects](#-projects)**.
+Check out my **[projects](#trophy-other-achievements)**.
 
 You can also check out my [self-introduction video](https://www.youtube.com/watch?v=mdsK340TMpw).
 
@@ -18,7 +18,7 @@ Also I'm learning **ReactJS** and taking part in React course of [The Rolling Sc
 - LinkedIn [linkedin.com/in/foxtrotkilo](https://www.linkedin.com/in/foxtrotkilo)
 - DS Foxtrot#0879
 
-## :muscle: My skills
+## 🛠 My tech stack
 - JavaScript
 - TypeScript
 - HTML, CSS, Sass
