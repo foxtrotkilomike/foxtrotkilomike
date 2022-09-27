@@ -41,6 +41,9 @@ Also I'm learning **ReactJS** and taking part in React course of [The Rolling Sc
 
 ## 👨‍💻 Projects
 
+<details>
+<summary>Projects list</summary>
+
 1. **RS Recipes**
 
 	A clone of a popular recipes portal 'Allrecipes.com'.
@@ -112,7 +115,10 @@ Also I'm learning **ReactJS** and taking part in React course of [The Rolling Sc
 	<img width="580" alt="image" src="https://user-images.githubusercontent.com/83244224/192508435-06db58de-fa6d-41c4-9f48-5b4187be63b3.png">
 	
 <br>
-More projects could be found in my github [respositories section](https://github.com/foxtrotkilomike?tab=repositories).
+More projects could be found in my github respositories section - https://github.com/foxtrotkilomike?tab=repositories
+
+</details>
+
 <!--
 **foxtrotkilomike/foxtrotkilomike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
