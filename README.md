@@ -19,17 +19,16 @@ I'm open to work or internship offers (Europe & CIS countries).
 ## 🛠 My tech stack
 - React JS
 - TypeScript, JavaScript
-- HTML, CSS, Sass
 - Webpack, Vite
 - Node.js, Express
 
 ## :bar_chart: Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=foxtrotkilomike&show_icons=true&hide_rank=true&theme=onedark" />
+  <img align="top" src="https://github-readme-stats-yca3.vercel.app/api?username=foxtrotkilomike&show_icons=true&hide_rank=true&hide=stars&count_private=true&theme=flag-india&bg_color=00000000" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxtrotkilomike&layout=compact&theme=onedark" />
+  <img align="top" src="https://github-readme-stats-yca3.vercel.app/api/top-langs/?username=foxtrotkilomike&layout=compact&theme=flag-india&bg_color=00000000" />
 </a>
 
 ## :trophy: Other achievements
