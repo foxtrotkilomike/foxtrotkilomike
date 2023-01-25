@@ -34,7 +34,7 @@ You can also check out my [self-introduction video](https://www.youtube.com/watc
 ## 👨‍💻 Projects
 
 <details>
-<summary>Projects list</summary>
+<summary><b>Projects list</b></summary>
 
 ## Project Management App
 
@@ -135,7 +135,7 @@ A virtual keyboard, which represents physical keys pressing and can be used to t
 	
 ## Pet shelter
 
-Two-page site of pets' shelter.
+A two-page site of pets' shelter.
 	
 - [Repository](https://github.com/foxtrotkilomike/Pet-haven)
 - [Deploy](https://rolling-scopes-school.github.io/foxtrotkilomike-JSFE2022Q1/shelter/)
@@ -147,20 +147,18 @@ Two-page site of pets' shelter.
 - SASS
 
 ### Features
-- burger menu
-- custom slider
-- custom pagination
-- adaptive design
+- a burger menu
+- a custom slider
+- a custom pagination
+- an adaptive design
 - interactive elements with hover effects
-- smooth scroll
+- a smooth scroll
 	
 ## Cars asynchronous race game
 A task to practice asynchronous requests for cars' race and detecting winners.
 
 - [Repository](https://github.com/foxtrotkilomike/async-race)
-- [Deploy](https://rolling-scopes-school.github.io/foxtrotkilomike-JSFE2022Q1/async-race/)
-    
-**Note**: to be able to watch working version ones need to start up a local server with cars data. The code and instructions can be found **[here](https://github.com/mikhama/async-race-api).**
+- [Deploy](https://rolling-scopes-school.github.io/foxtrotkilomike-JSFE2022Q1/async-race/) (**Note**: to be able to watch working version ones need to start up a local server with cars data. The code and instructions can be found **[here](https://github.com/mikhama/async-race-api).**)
 <br>
 <br>
 <img width="571" alt="image" src="https://user-images.githubusercontent.com/83244224/184881481-89593f9b-1d40-45a4-ba07-0116957b21b4.png">
