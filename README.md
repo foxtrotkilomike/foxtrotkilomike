@@ -1,14 +1,11 @@
 # Welcome 👋
 
 ## :bow: Who am I
-I'm Phil - a frontend developer, a graduate of [BMSTU](https://www.bmstu.ru/) informatics and control systems department. Keen on learning new technologies in web-design, which improve user experience and benefit the business!
+I'm Phil - a frontend developer, a graduate of [BMSTU](https://www.bmstu.ru/) informatics and control systems department. Keen on learning new technologies in web-dev, which improve user experience and benefit the business!
 
-Check out my **[projects](#trophy-other-achievements)**.
+My **[projects](#trophy-other-achievements)**.
 
 You can also check out my [self-introduction video](https://www.youtube.com/watch?v=mdsK340TMpw).
-
-## :surfer: Currently
-I'm open to work or internship offers (Europe & CIS countries).
 
 ## :mailbox: Contact me!
 - TG [@foxkilomike](https://t.me/foxkilomike)
@@ -17,10 +14,10 @@ I'm open to work or internship offers (Europe & CIS countries).
 - DS Foxtrot#0879
 
 ## 🛠 My tech stack
-- React JS
-- TypeScript, JavaScript
-- Webpack, Vite
+- React, Redux & RTK
+- JavaScript, TypeScript
 - Node.js, Express
+- Webpack, Vite
 
 ## :bar_chart: Stats
 
@@ -123,7 +120,7 @@ I'm open to work or internship offers (Europe & CIS countries).
 	<img width="571" alt="image" src="https://user-images.githubusercontent.com/83244224/192508435-06db58de-fa6d-41c4-9f48-5b4187be63b3.png">
 	
 <br>
-More projects could be found in my github respositories section - https://github.com/foxtrotkilomike?tab=repositories
+More projects could be found in my 👉 **[github respositories](https://github.com/foxtrotkilomike?tab=repositories)**
 
 </details>
 
