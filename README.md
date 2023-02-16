@@ -138,7 +138,7 @@ A virtual keyboard, which represents physical keys pressing and can be used to t
 A two-page site of pets' shelter.
 	
 - [Repository](https://github.com/foxtrotkilomike/Pet-haven)
-- [Deploy](https://rolling-scopes-school.github.io/foxtrotkilomike-JSFE2022Q1/shelter/)
+- [Deploy](https://foxtrotkilomike.github.io/Pet-haven/)
 <br>
 <img width="571" alt="image" src="https://user-images.githubusercontent.com/83244224/214547537-24e078f7-1e0e-493f-8078-626f0074131d.png">
 
