@@ -3,13 +3,14 @@ I'm Phil - a frontend developer, a graduate of [BMSTU](https://www.bmstu.ru/) in
 
 My **[projects](#trophy-other-achievements)**.
 
+My **[CV](https://drive.google.com/file/d/1NpnC_z19MumqpYjZeQ1uvwfIvc2LL7ZQ/view?usp=sharing)**.
+
 You can also check out my [self-introduction video](https://www.youtube.com/watch?v=mdsK340TMpw).
 
 ## :mailbox: Contact me!
 - TG [@foxkilomike](https://t.me/foxkilomike)
 - Mail <a href="mailto:filooloog@mail.ru">filooloog@mail.ru</a>
 - LinkedIn [linkedin.com/in/foxtrotkilo](https://www.linkedin.com/in/foxtrotkilo)
-- DS Foxtrot#0879
 
 ## 🛠 My tech stack
 - React, Redux & RTK
