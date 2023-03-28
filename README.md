@@ -74,6 +74,40 @@ An application which helps a team of developers to track project's tasks.
 - user-friendly toast notifications
 - adaptive & responsive layout, burger menu
 
+## E-commerce
+
+_E-commerce "Lalasia"_ is a prototype of an online store with the ability to register, chose goods and make orders, which will be listed in a customer profile.
+
+- [Repository](https://github.com/foxtrotkilomike/kts-e-commerce/)
+- [Deploy](https://foxtrotkilomike.github.io/kts-e-commerce/)
+
+<br>
+<img width="571" alt="image" src="https://user-images.githubusercontent.com/83244224/227460538-768c8a07-75c1-427d-a226-76299ab04d75.png">
+
+### Tech stack
+
+- React
+- TypeScript
+- MobX
+- React Router
+- SASS
+- React Hook Form
+- Webpack
+
+### Features
+
+- products search with title & filter by category
+- infinite scroll
+- user registration, authentication & authorization, logout
+- the flow of making an order (add to cart -> modify the number of products -> checkout -> pay -> see the order in profile)
+- accessible sign up, sign in and payment forms with validation
+- routes protection & redirect to "Sign in" page
+- custom 404 page
+- cart items and user orders beeing saved and restored from localStorage
+- accessible filter dropdown on "Products" page, accessible modal window on "Cart" page while deleting a product
+- "About us" with random facts generator about me
+- user-friendly annotations on empty, private or non-existing pages; transitions & hover effects
+- adaptive & responsive layout for all pages, burger menu
 
 ## RS Recipes
 
