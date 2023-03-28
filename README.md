@@ -13,8 +13,9 @@ You can also check out my [self-introduction video](https://www.youtube.com/watc
 - LinkedIn [linkedin.com/in/foxtrotkilo](https://www.linkedin.com/in/foxtrotkilo)
 
 ## 🛠 My tech stack
-- React, Redux & RTK
+- React, Redux & RTK, MobX
 - JavaScript, TypeScript
+- SASS, CSS
 - Node.js, Express
 - Webpack, Vite
 
